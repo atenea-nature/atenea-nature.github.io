@@ -1,0 +1,8 @@
+555;Dani;26/03/1979;ES;-5000;true
+666;Paco;20/06/1951;ES;-50000;true
+222;Fernando;08/02/1975;ES;5000;false
+333;Arturo;28/07/1976;UK;-100000;true
+777;Gala;25/07/2016;ES;10000;false
+888;Natalia;08/02/1986;ES;20000;false
+111;Fran;27/07/1987;ES;-10000;false
+444;Consuelo;20/09/1983;ES;500000;true
